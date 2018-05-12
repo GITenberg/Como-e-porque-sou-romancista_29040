@@ -1,0 +1,32 @@
+_repo: Como-e-porque-sou-romancista_29040
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alencar, José Martiniano de
+    aliases:
+    - Alencar, Jose Martiniano de
+    - Alencar, José de
+    - De Alencar, José Martiniano
+    birthdate: 1829
+    deathdate: 1877
+    gutenberg_agent_id: '33653'
+    url: http://www.gutenberg.org/2009/agents/33653
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2009-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29040'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alencar, José Martiniano de, 1829-1877'
+- !lcc 'PQ'
+- !lcsh 'Novelists, Brazilian -- 19th century -- Biography'
+title: Como e porque sou romancista
+url: http://www.gutenberg.org/ebooks/29040
